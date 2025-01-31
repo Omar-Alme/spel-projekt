@@ -37,6 +37,9 @@
 1. **Install Dependencies**  
    ```bash  
    npm install  
-   npm run dev
+
+2. **Run the Game**
+   ```bash  
+   npm run dev  
    ```
 
