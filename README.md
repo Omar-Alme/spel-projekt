@@ -1,4 +1,16 @@
-# Slutprojektet
+# DINOSTROIDS ☄️🦖
+
+![DinoStroids](../spel-projekt/assets/documentations/game.png)
+
+## Developers & Designers: 
+[Catharina Düring](https://github.com/cadring) 
+[Ragnar Gulin](https://github.com/ragnargulin)
+[Kevin Hellgren ](https://github.com/Kind606) 
+[Kasper Vikström](https://github.com/kaspvik) 
+[Omar Al-mehdhar](https://github.com/Omar-Alme)
+
+
+## Game Description
 
 Välkommen till den förinställda kodbasen för slutprojektet.
 Se filen [Sketch](./src/sketch.ts) och [Game](./src/game.ts) filerna för hur ni bör börja skriva er kod!
@@ -9,7 +21,6 @@ Projektet använder sig av [Typescript](https://www.typescriptlang.org/) och [p5
 
 OBS: Undvik [DOM funktionerna i p5.js](https://p5js.org/reference/#group-DOM) eftersom de **inte** är canvasspecifika och kommer inte fungera som ni förväntar er.
 
-## Utveckling
 
 ### Installation
 
@@ -38,9 +49,3 @@ Typings för de globala variablerna relaterat till p5.sound fungerar tyvärr int
 Eftersom det här projektet är konfigurerat till att fungera utan `import/export` så det ibland vara så att typescript kompilatorn inte hittar en klass. För att lösa det kan du lägga till en referens kommentar som berättar för typescript vart klassen är deklarerad.
 
 Lägg till följande `/// <reference path="to-file-with-class" />` längst upp i filen som genererade felet och skriv korrekt sökväg.
-
-## TODO
-
-Lägg till ytterligare information som är specifikt för ert projekt!
-
-**LYCKA TILL!**
