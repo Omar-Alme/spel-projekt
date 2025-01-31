@@ -7,7 +7,7 @@
 [Ragnar Gulin](https://github.com/ragnargulin)\
 [Kevin Hellgren](https://github.com/Kind606)\
 [Kasper Vikström](https://github.com/kaspvik)\
-[Omar Al-mehdhar](https://github.com/Omar-Alme)\
+[Omar Al-mehdhar](https://github.com/Omar-Alme)
 
 ## Game Description
 **Defend Mars from an asteroid invasion!**  
