@@ -96,6 +96,10 @@ class MainMenu implements IScene {
     this.scoreBoardBtn.draw();
     this.startGameBtn.draw();
     this.musicOnOffBtn.draw();
+
+    textSize(15);
+    fill("black");
+    text("\u00A9 2025\nCatharina During, Kasper Vikstrom, Kevin Hellgren,\nOmar Mustafa Al-Mehdhar & Ragnar Gulin", width / 2, height * 0.95);
   }
 
   //checks so the music isnt trying to restart if its already been started
