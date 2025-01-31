@@ -42,4 +42,9 @@
    ```bash  
    npm run dev  
    ```
+   
+      ## 🌟 Music by:
+Patrik Werner
+
+---
 
