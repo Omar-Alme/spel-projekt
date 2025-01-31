@@ -1,6 +1,6 @@
 # DINOSTROIDS ☄️🦖
 
-![DinoStroids](/assets/documentations/game.pngW)
+![DinoStroids](./assets/documentations/game.png)
 
 ## Developers & Designers: 
 [Catharina Düring](https://github.com/cadring) 
