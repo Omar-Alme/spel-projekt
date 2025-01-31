@@ -43,7 +43,7 @@
    npm run dev  
    ```
    
-      ## 🌟 Music by:
+## 🌟 Music by:
 Patrik Werner
 
 ---
